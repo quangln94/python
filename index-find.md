@@ -1,0 +1,2 @@
+- https://blog.softhints.com/python-index-valueerror-substring-not-found/
+- https://www.journaldev.com/23992/python-string-index
